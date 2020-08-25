@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gyouhoko.cn/2020/08/24/firstPageArticle/</loc>
+    
+    <lastmod>2020-08-24</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://gyouhoko.cn/tags/index.html</loc>
     
     <lastmod>2020-08-24</lastmod>
@@ -39,12 +46,26 @@
 
   <url>
     <loc>http://gyouhoko.cn/</loc>
-    <lastmod>2020-08-24</lastmod>
+    <lastmod>2020-08-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://gyouhoko.cn/tags/tags/</loc>
+    <lastmod>2020-08-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://gyouhoko.cn/categories/categories/</loc>
+    <lastmod>2020-08-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
