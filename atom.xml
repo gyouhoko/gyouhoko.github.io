@@ -3,11 +3,11 @@
   <title>Gyouhoko&#39;s Blog</title>
   
   
-  <link href="http://gyouhoko.cn/atom.xml" rel="self"/>
+  <link href="https://gyouhoko01.gitee.io/gyouhoko-blog/atom.xml" rel="self"/>
   
-  <link href="http://gyouhoko.cn/"/>
+  <link href="https://gyouhoko01.gitee.io/gyouhoko-blog/"/>
   <updated>2020-08-25T02:29:34.747Z</updated>
-  <id>http://gyouhoko.cn/</id>
+  <id>https://gyouhoko01.gitee.io/gyouhoko-blog/</id>
   
   <author>
     <name>Gyouhoko</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>第一篇文章</title>
-    <link href="http://gyouhoko.cn/2020/08/24/firstPageArticle/"/>
-    <id>http://gyouhoko.cn/2020/08/24/firstPageArticle/</id>
+    <link href="https://gyouhoko01.gitee.io/gyouhoko-blog/2020/08/24/firstPageArticle/"/>
+    <id>https://gyouhoko01.gitee.io/gyouhoko-blog/2020/08/24/firstPageArticle/</id>
     <published>2020-08-24T10:19:45.000Z</published>
     <updated>2020-08-25T02:29:34.747Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="categories" scheme="http://gyouhoko.cn/categories/categories/"/>
+    <category term="categories" scheme="https://gyouhoko01.gitee.io/gyouhoko-blog/categories/categories/"/>
     
     
-    <category term="tags" scheme="http://gyouhoko.cn/tags/tags/"/>
+    <category term="tags" scheme="https://gyouhoko01.gitee.io/gyouhoko-blog/tags/tags/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://gyouhoko.cn/2020/08/23/hello-world/"/>
-    <id>http://gyouhoko.cn/2020/08/23/hello-world/</id>
+    <link href="https://gyouhoko01.gitee.io/gyouhoko-blog/2020/08/23/hello-world/"/>
+    <id>https://gyouhoko01.gitee.io/gyouhoko-blog/2020/08/23/hello-world/</id>
     <published>2020-08-23T09:13:41.681Z</published>
     <updated>2020-08-23T09:13:41.681Z</updated>
     
