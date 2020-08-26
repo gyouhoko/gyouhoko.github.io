@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://gyouhoko01.gitee.io/gyouhoko-blog/2020/08/24/firstPageArticle/</loc>
+    <loc>gyouhoko.cn/2020/08/24/firstPageArticle/</loc>
     
     <lastmod>2020-08-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://gyouhoko01.gitee.io/gyouhoko-blog/tags/index.html</loc>
+    <loc>gyouhoko.cn/tags/index.html</loc>
     
     <lastmod>2020-08-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://gyouhoko01.gitee.io/gyouhoko-blog/link/index.html</loc>
+    <loc>gyouhoko.cn/link/index.html</loc>
     
     <lastmod>2020-08-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://gyouhoko01.gitee.io/gyouhoko-blog/categories/index.html</loc>
+    <loc>gyouhoko.cn/categories/index.html</loc>
     
     <lastmod>2020-08-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://gyouhoko01.gitee.io/gyouhoko-blog/README.html</loc>
+    <loc>gyouhoko.cn/README.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://gyouhoko01.gitee.io/gyouhoko-blog/2020/08/23/hello-world/</loc>
+    <loc>gyouhoko.cn/2020/08/23/hello-world/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -45,7 +45,7 @@
   
 
   <url>
-    <loc>https://gyouhoko01.gitee.io/gyouhoko-blog</loc>
+    <loc>gyouhoko.cn</loc>
     <lastmod>2020-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -53,7 +53,7 @@
 
   
   <url>
-    <loc>https://gyouhoko01.gitee.io/gyouhoko-blog/tags/tags/</loc>
+    <loc>gyouhoko.cn/tags/tags/</loc>
     <lastmod>2020-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -62,7 +62,7 @@
 
   
   <url>
-    <loc>https://gyouhoko01.gitee.io/gyouhoko-blog/categories/categories/</loc>
+    <loc>gyouhoko.cn/categories/categories/</loc>
     <lastmod>2020-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
